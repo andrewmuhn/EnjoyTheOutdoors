@@ -11,7 +11,7 @@ This project is a web application that allows users to explore information about
 - `index.html`: The main landing page of the web application.
 - `pages/`: Contains the additional web pages of the application.
     - `info.html`: The page that displays detailed information about a selected mountain.
-    - `search.html`: The page that allows users to search for mountains.
+    - `search.html`: The page that allows users to search for parks within the national park system.
 - `README.md`: The file you're currently reading.
 
 ## Technologies Used
