@@ -1,0 +1,16 @@
+.restricted {
+  width: 300px;
+}
+
+#flipArrow {
+    width: 15px;
+}
+
+.card {
+    transition: transform 0.6s ease;
+    backface-visibility: hidden;
+}
+
+.card.flipped {
+    transform: rotateY(360deg);
+}
